@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayush-Parab
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html/css/js
-- 💞️ I’m looking to collaborate on a project idea that I have.
+- 👀 I’m captivated by the artistry of web development
+- 🌱 Currently learning html/css/js and getting better each day!
+- 💞️ Looking forward to collaborate on a project idea that I have.
 - 📫 How to reach me parabayush7@gmail.com
 
 <!---
